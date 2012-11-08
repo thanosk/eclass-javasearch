@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="jdbcurl">jdbc:mysql://localhost/eclass30?useUnicode=true&amp;characterEncoding=UTF-8</entry>
+<entry key="user">eclass30</entry>
+<entry key="password">eclass30</entry>
+</properties>
